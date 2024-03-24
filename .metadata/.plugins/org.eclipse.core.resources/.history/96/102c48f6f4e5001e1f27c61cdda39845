@@ -1,0 +1,14 @@
+package com.sathya.lombok;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Employee employee=new Employee();
+		employee.setEmpId(1001);
+		employee.setEmpName(null);
+		employee.setEmpSalary(10000.45);
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.sathya.springbootexamp1.springbootexamp1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Springbootexamp1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Springbootexamp1Application.class, args);
+	}
+
+}
